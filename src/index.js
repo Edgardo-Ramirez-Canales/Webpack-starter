@@ -1,8 +1,6 @@
-import { saludar } from './js/componentes.js';
-import './styles.css';
+import { saludar } from "./js/componentes.js";
+import "./styles.css";
 
+const nombre = "Tu primera prueba de deploy esta correcta";
 
-
-const nombre = 'Fernando';
-
-saludar( nombre );
+saludar(nombre);
